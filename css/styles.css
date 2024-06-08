@@ -342,6 +342,7 @@ fill: #f4f4fd;
 .social-list {
    
     display: flex;
+    gap: 16px;
     
     
 }
