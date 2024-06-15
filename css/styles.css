@@ -508,14 +508,14 @@ font-weight: 400;
     line-height: 24px; 
     line-height: 2;
     letter-spacing: 0.04em;
-    color: #fff;
+    color: #ffffff;
         width: 264px;
         height: 40px;
     margin-left: 0;
         box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
         background-color: transparent;
         color: #ffffff;
-        padding: 8px 16px;
+        padding-left: 16px;
         border-radius: 4px;
         transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 
@@ -553,8 +553,8 @@ font-weight: 400;
 }
 
 .subscribe-icon {
-    fill: #fff;
-   padding-left: 16px;
+    fill: #ffffff;
+   margin-left: 16px;
 }
 
 .container-form-footer {
